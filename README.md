@@ -1,5 +1,19 @@
-# Webpack configurado
+# Is only a base to create a web page
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+Solo hay que instalar los modulos de node
+```
+npm install
+```
+Luego se puede crear la carpeta dist para prudiccion con el siguiente comando
+```
+npm run build
+```
+y para desarrollo el siguiente
+```
+npm run build:dev
+```
 
-Pero esto lo veremos en la siguiente sección
+Por ultimo para lanzar el prototipo de pagina web
+```
+npm start
+```
